@@ -1,1 +1,1 @@
-# R-Project
+The main objective of this project is to detect the fake news based on some applications like count of words, count of exclamations and question marks, sentiments and normalized values of medains and standard deviations.
